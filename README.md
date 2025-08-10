@@ -24,13 +24,13 @@ Rules: find pairs of identical cards by flipping two cards at a time.
 
 1. Sklonuj repozytorium / Clone the repository  
 2. Uruchom lokalny serwer developerski (np. `npm run dev`) w projekcie Vue  
-3. Gra dostępna pod `http://localhost:5173` (lub innym lokalnym portem)
+3. Gra dostępna pod `http://localhost:5173/` (lub innym lokalnym portem)
 
 ---
 
 ## Technologie / Technologies
 
-- Vue 3  s
+- Vue 3  
 - Bootstrap 5 (CDN)  
 - JavaScript / HTML / CSS  
 
